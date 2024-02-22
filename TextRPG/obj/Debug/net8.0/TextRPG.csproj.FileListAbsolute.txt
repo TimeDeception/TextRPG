@@ -1,0 +1,14 @@
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/bin/Debug/net8.0/TextRPG
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/bin/Debug/net8.0/TextRPG.deps.json
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/bin/Debug/net8.0/TextRPG.runtimeconfig.json
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/bin/Debug/net8.0/TextRPG.dll
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/bin/Debug/net8.0/TextRPG.pdb
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/obj/Debug/net8.0/TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/obj/Debug/net8.0/TextRPG.AssemblyInfoInputs.cache
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/obj/Debug/net8.0/TextRPG.AssemblyInfo.cs
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/obj/Debug/net8.0/TextRPG.csproj.CoreCompileInputs.cache
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/obj/Debug/net8.0/TextRPG.dll
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/obj/Debug/net8.0/refint/TextRPG.dll
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/obj/Debug/net8.0/TextRPG.pdb
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/obj/Debug/net8.0/TextRPG.genruntimeconfig.cache
+/Users/jhak3rs/Desktop/C# Projects/TextBasedRPGGame/TextRPG/obj/Debug/net8.0/ref/TextRPG.dll
